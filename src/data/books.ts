@@ -99,5 +99,41 @@ export const books: Book[] = [
         price: 40,
         page: 144,
         image: "https://rokbucket.rokomari.io/ProductNew20190903/260X372/Nurani_Poddhotite_Quran_Shikkha-Hazrat_Maolana_Kwari_Belayet_Hossain-a4eae-146912.jpg"
+    },
+    {
+        id: 12,
+        name: "জিজ্ঞাসা ও জবাব - ১ম খণ্ড",
+        category: "ইসলামি সওয়াল-জওয়াব",
+        author: "ড. খোন্দকার আব্দুল্লাহ জাহাঙ্গীর",
+        price: 142,
+        page: 160,
+        image: "https://rokbucket.rokomari.io/ProductNew20190903/260X372/713b47069_155391.jpg"
+    },
+    {
+        id: 13,
+        name: "জিজ্ঞাসা ও জবাব - ২য় খণ্ড",
+        category: "ইসলামি সওয়াল-জওয়াব",
+        author: "ড. খোন্দকার আব্দুল্লাহ জাহাঙ্গীর",
+        price: 179,
+        page: 255,
+        image: "https://rokbucket.rokomari.io/ProductNew20190903/260X372/949a0ca60_164764.jpg"
+    },
+    {
+        id: 14,
+        name: "মরণের আগে ও পরে",
+        category: "ইসলামি দর্শন",
+        author: "হুজ্জাতুল ইসলাম ইমাম গাযযালী রহ.",
+        price: 303,
+        page: 448,
+        image: "https://rokbucket.rokomari.io/ProductNew20190903/260X372/679ecb7db_67557.jpg"
+    },
+    {
+        id: 15,
+        name: "উমরাহ সফরের গল্প",
+        category: "হজ্জ ও উমরাহ স্মৃতিকথা",
+        author: "আরিফ আজাদ",
+        price: 231,
+        page: 184,
+        image: "https://rokbucket.rokomari.io/ProductNew20190903/260X372/Umra_Shoforer_Golpo-Arif_Azad-7c3a5-447740.jpg"
     }
 ];

@@ -27,7 +27,7 @@ A personal digital library to organize, explore, and keep track of my book colle
 ## 📂 Project Structure
 
 ```text
-book-collections/
+book-collection/
 ├── public/
 │   └── favicon.svg
 │
@@ -78,7 +78,3 @@ interface Book {
 This project was built for personal use to maintain a digital record of my book collection.
 
 It is also an opportunity to practice TypeScript, frontend development, responsive UI design, and data handling without relying on a frontend framework.
-
-## 👨‍💻 Author
-
-**Muhammad Sami**
